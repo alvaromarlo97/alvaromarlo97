@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvaro Martín</h1>
 <h3 align="center">Fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvaromarlo97" alt="alvaromarlo97" /></a> </p>
 
 - 🔭 I’m currently working on **My projects**
 
